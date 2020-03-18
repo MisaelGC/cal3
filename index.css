@@ -1,0 +1,18 @@
+header{
+  background: cyan;
+  color: white;
+  font-family: 'Lin Jian Mao Cao';
+}
+
+img{
+  width: 400px;
+}
+
+p{
+  font-family: 'Baloo Chettan 2';
+}
+
+footer{
+  background: black;
+  color: white;
+}
