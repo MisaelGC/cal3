@@ -1,5 +1,9 @@
+body{
+  background: #13A2E5;
+}
+
 header{
-  background: cyan;
+  background: #1EC6C6;
   color: white;
   font-family: 'Lin Jian Mao Cao';
 }
@@ -35,4 +39,16 @@ p{
 footer{
   background: black;
   color: white;
+}
+
+section h1{
+  padding-left: 30%;
+}
+
+section.Contact{
+  text-align: center;
+}
+
+footer{
+  text-align: right;
 }
